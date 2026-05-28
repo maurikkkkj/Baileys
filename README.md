@@ -1,2 +1,2 @@
 ```bash
-npm install github:maurikkkkj/Bailey
+npm install github:maurikkkkj/Baileys
